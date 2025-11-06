@@ -50,12 +50,6 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
       </a>
       <br>Angular
     </td>
-    <td align="center" width="96">
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-      </a>
-      <br>Vue.js
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -69,12 +63,6 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
       </a>
       <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -150,12 +138,6 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
       </a>
       <br>Jira
     </td>
-    <td align="center" width="96">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      </a>
-      <br>Postman
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -166,7 +148,7 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
     </td>
     <td align="center" width="96">
       <a href="https://n8n.io" target="_blank" rel="noreferrer">
-        <img src="https://hackceleration.com/wp-content/uploads/2025/09/Design-sans-titre-11-1.png" alt="n8n" width="40" height="40"/>
+        <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
       </a>
       <br>n8n
     </td>
