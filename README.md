@@ -128,7 +128,7 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
     </td>
     <td align="center" width="96">
       <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40"/>
       </a>
       <br>Redis
     </td>
