@@ -1,6 +1,6 @@
 ## Hey, I'm David 👋
 
-Full-stack developer passionate about building modern web applications across the entire Javascript stack. I work with TypeScript, React, Next.js, Remix, Angular for creating dynamic user interfaces, while leveraging Node.js and Spring Boot for robust backend solutions. My experience spans from database design (PostgreSQL, MySQL) to cloud infrastructure (AWS, Docker, Linux), with a constant focus on staying current with emerging technologies.
+Full-stack developer passionate about building modern web applications across the entire Javascript stack. I work with TypeScript, React, Next.js, Remix, Angular for creating dynamic user interfaces, while leveraging Node.js and Spring Boot for robust backend solutions. My experience spans from database design (PostgreSQL, Redis) to cloud infrastructure (AWS, Docker, Linux), with a constant focus on staying current with emerging technologies.
 
 I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
 
@@ -127,10 +127,10 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
       <br>Elasticsearch
     </td>
     <td align="center" width="96">
-      <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+      <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
       </a>
-      <br>Nginx
+      <br>Redis
     </td>
     <td align="center" width="96">
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
