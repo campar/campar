@@ -1,101 +1,3 @@
-Skip to content
-Navigation Menu
-campar
-campar
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-campar/campar is a special repository: its README.md will appear on your profile!
-campar
-/
-README.md
-in
-main
-
-Edit
-
-Preview
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-Soft wrap
-Editing README.md file contents
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
 # David Čampar
 
 Full-stack developer passionate about building modern web applications across the entire Javascript stack. I work with TypeScript, React, Next.js, Remix, Angular for creating dynamic user interfaces, while leveraging Node.js and Spring Boot for robust backend solutions. My experience spans from database design (PostgreSQL, MySQL) to cloud infrastructure (AWS, Docker, Linux), with a constant focus on staying current with emerging technologies.
@@ -159,7 +61,100 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
     <td align="center" width="96">
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8_ACwdQT0NMs_ptU8917_1THnLQqxK_u8Q&s" alt="aws" width="40" height="40"/>
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="spring-boot" width="40" height="40"/>
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1154px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+      </a>
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+      </a>
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+        <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/jira-app-icon-hd.png" alt="jira" width="40" height="40"/>
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.shopify.com" target="_blank" rel="noreferrer">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/shopify-icon.png" alt="shopify" width="40" height="40"/>
+      </a>
+      <br>Shopify
+    </td>
+    <td align="center" width="96">
+      <a href="https://n8n.io" target="_blank" rel="noreferrer">
+        <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
+      </a>
+      <br>n8n
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+</table>
