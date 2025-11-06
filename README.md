@@ -50,14 +50,14 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
       </a>
       <br>Angular
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
       </a>
       <br>Node.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -94,8 +94,6 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
       </a>
       <br>Java
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="spring-boot" width="40" height="40"/>
@@ -108,6 +106,8 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
       </a>
       <br>Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -138,8 +138,6 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
       </a>
       <br>Jira
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.shopify.com" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/shopify-icon.png" alt="shopify" width="40" height="40"/>
