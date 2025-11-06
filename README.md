@@ -1,4 +1,4 @@
-# David Čampar
+## Hey, I'm David 👋
 
 Full-stack developer passionate about building modern web applications across the entire Javascript stack. I work with TypeScript, React, Next.js, Remix, Angular for creating dynamic user interfaces, while leveraging Node.js and Spring Boot for robust backend solutions. My experience spans from database design (PostgreSQL, MySQL) to cloud infrastructure (AWS, Docker, Linux), with a constant focus on staying current with emerging technologies.
 
