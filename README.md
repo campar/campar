@@ -4,7 +4,7 @@ Full-stack developer passionate about building modern web applications across th
 
 I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
 
-<h3>🔥 Languages and Tools 🔥</h3>
+<h3>Languages and Tools 🔥</h3>
 
 <table align="center">
   <tr>
