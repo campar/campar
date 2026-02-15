@@ -114,12 +114,12 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
       </a>
       <br>PHP
     </td>
-    <td align="center" width="96">
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1154px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
-      </a>
-      <br>Laravel
-    </td>
+<td align="center" width="96">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <br>Laravel
+</td>
     <td align="center" width="96">
       <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
