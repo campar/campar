@@ -1,6 +1,10 @@
 ## Hey, I'm David 👋
 
-Full-stack developer passionate about building modern web applications across the entire Javascript stack. I work with TypeScript, React, Next.js, Remix, Angular for creating dynamic user interfaces, while leveraging Node.js and Spring Boot for robust backend solutions. My experience spans from database design (PostgreSQL, Redis) to cloud infrastructure (AWS, Docker, Linux), with a constant focus on staying current with emerging technologies.
+Full Stack Engineer and AWS Certified Solutions Architect with 5+ years of experience building TypeScript, Java and Python web apps on secure, scalable AWS infrastructure.
+
+- 🔧 **Now:** DevOps Engineer at HSC ITAS, where I rebuilt a 10-year-old AWS infrastructure from scratch and cut the monthly AWS bill by two-thirds
+- 💻 **Before:** full-stack apps with Spring Boot, Angular, Django, Vue and Flutter, from workplace safety and e-learning platforms to real-time customer feedback and RFID time-tracking systems
+- 🏆 1st place at the United Cloud & Google Bits N' AndroidTV Hackathon (2019)
 
 I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
 
