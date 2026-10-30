@@ -134,7 +134,7 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
     </td>
     <td align="center" width="96">
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-        <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/jira-app-icon-hd.png" alt="jira" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
       </a>
       <br>Jira
     </td>
@@ -146,7 +146,7 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
     </td>
     <td align="center" width="96">
       <a href="https://n8n.io" target="_blank" rel="noreferrer">
-        <img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/>
       </a>
       <br>n8n
     </td>
