@@ -4,14 +4,6 @@ Full-stack developer passionate about building modern web applications across th
 
 I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
 
-<h3 align="center">🏅 Certifications</h3>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/dd710375-7a26-45aa-85d5-e904cf1cb2be/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="120" height="120"/>
-  </a>
-</p>
-
 <h3 align="center"> 🔥Languages and Tools🔥</h3>
 
 <table align="center">
@@ -166,3 +158,11 @@ I also enjoy creating AI automation workflows with n8n for eCommerce businesses.
     </td>
   </tr>
 </table>
+
+<h3 align="center">🏅 Certifications</h3>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/dd710375-7a26-45aa-85d5-e904cf1cb2be/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="120" height="120"/>
+  </a>
+</p>
